@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626018736598",
+    "project_id": "jack-propertise-a1acf",
+    "storage_bucket": "jack-propertise-a1acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626018736598:android:f1203071833acb8f01ec77",
+        "android_client_info": {
+          "package_name": "com.babuland.app.babuland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626018736598-ijj7028qcr98e0cqf6c2se5m07344dic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCub_Mpo2KMzEUYXWYJnYsa_Ief_1x49rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626018736598-ijj7028qcr98e0cqf6c2se5m07344dic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
